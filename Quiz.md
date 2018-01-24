@@ -7,3 +7,8 @@ View your transaction & Contract Address 0x5a5ada16feff73f963b786fb34e20f58aa11e
 
 0xc42069aa9a5492a27cc5a974b06be792ec8e30fddf6386ca83138ec32d2d1b12
 View your transaction & Contract Address 0xa1cc8cf513a8d64dc54964a4563dcb188b2b6820
+
+
+Weds 24/1 deployment
+0x858eb23d60ef151232f776a071de35fda95ced9df7bf8a740f90afa4691618fe
+View your transaction & Contract Address 0x98bbe61c09a2cabb90260b2c5cdb9040e823644f
